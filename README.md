@@ -1,6 +1,8 @@
 # BrainiacQuest-MageGames
  
-Notlar:
+NOTLAR
+
+
 Json dosyasında tekrar eden veriler var. Değişiklik yapmadım, aynı şekilde kullandım.
 
 
