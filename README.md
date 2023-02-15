@@ -34,11 +34,3 @@ Scriptable Object bilgimi de gösterebilmek için, SO kullandım. Zaten gerekliy
 
 
 Birkaç farklı font denedim ama genellikle birkaç Türkçe karakter eksiği oluyor genellikle. En son kullandığım font için Extended ASCII olarak bir Font Asset yarattım ve bir de Fallback Asseti ekledim (her dil için ayrı bir Fallback yaratmak gerekiyor.)
-
-
-Biraz da doğaçlama bir şeyler eklemek istedim. Oyun bitiminde ekranda güzel bir şeyler çıkmasını istedim.
-Son olarak şunu da belirtmek isterim, aslında daha kısa sürede bitirebileceğim bir case study bu, fakat şiddetli diş ağrısı yüzünden birkaç gün pek bir şey yapamadım, tedavi oluyorum.
-
-
-Benim için çok güzel bir süreçti, bir şeyler üretmeyi seviyorum.
-Teşekkürler
