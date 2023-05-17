@@ -1,9 +1,6 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using Newtonsoft;
 using PlayerUIAnimator;
-using System;
 using System.Linq;
 
 public class GameplayManager : MonoBehaviour
